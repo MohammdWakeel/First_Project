@@ -1,0 +1,2066 @@
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-18 23:05:25 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-18 23:05:38 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-18 23:05:38 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-18 23:05:38 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-18 23:05:38 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-18 23:05:38 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-18 23:05:49 INFO  com.app.Main  - Enter product name to get all details!
+[main] 2021-08-18 23:05:56 WARN  com.app.Main  - Only double value are allow in this!
+[main] 2021-08-18 23:05:56 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-18 23:05:56 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-18 23:05:56 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-18 23:05:56 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-18 23:05:56 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-18 23:25:54 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-18 23:26:04 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-18 23:26:04 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-18 23:26:04 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-18 23:26:04 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-18 23:26:04 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-18 23:26:14 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 08:34:49 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:05:04 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:05:15 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:05:15 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-19 09:05:15 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-19 09:05:15 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:05:15 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:05:22 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:05:34 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLSyntaxErrorException: Table 'week3_mysql.product' doesn't exist
+[main] 2021-08-19 09:05:34 WARN  com.app.Main  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 09:05:34 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:05:34 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-19 09:05:34 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-19 09:05:34 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:05:34 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:08:01 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:08:07 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:08:07 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-19 09:08:07 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-19 09:08:07 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:08:07 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:08:12 INFO  com.app.Main  - Enter product price in which range you want to search!
+[main] 2021-08-19 09:08:26 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:08:26 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-19 09:08:26 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-19 09:08:26 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:08:26 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:11:44 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:11:51 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLException: Column 'product_description' not found.
+[main] 2021-08-19 09:11:51 WARN  com.app.Main  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 09:11:51 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:11:51 INFO  com.app.Main  - 1. By Product Name
+[main] 2021-08-19 09:11:51 INFO  com.app.Main  - 2. By Product Price
+[main] 2021-08-19 09:11:51 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:11:51 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:13:02 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:13:06 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:13:06 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:13:06 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:13:06 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:13:06 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:13:09 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - Product [product_id=100, product_name=Jeans, product_description=clothes, prodduct_price=0.0]
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - Product [product_id=201, product_name=Mobile, product_description=Electronic, prodduct_price=0.0]
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - Product [product_id=101, product_name=shirt, product_description=clothes, prodduct_price=0.0]
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_description=Electronic, prodduct_price=0.0]
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:13:16 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:14:27 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:14:32 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:14:32 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:14:32 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:14:32 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:14:32 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:14:34 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:14:40 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-19 09:14:40 WARN  com.app.Main  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 09:14:40 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:14:40 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:14:40 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:14:40 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:14:40 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:19:03 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:19:09 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:19:09 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:19:09 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:19:09 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:19:09 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:19:12 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:19:20 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-19 09:19:20 WARN  com.app.Main  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 09:19:20 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:19:20 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:19:20 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:19:20 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:19:20 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:40:29 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:40:34 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:40:34 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:40:34 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:40:34 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:40:34 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:40:37 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - Product [product_id=100, product_name=Jeans, product_description=clothes, prodduct_price=0.0]
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:40:46 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:46:58 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:47:10 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:47:10 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:47:10 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:47:10 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:47:10 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:47:13 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - Product [product_id=100, product_name=Jeans, product_category=clothes, product_price=0.0]
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:47:23 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:49:56 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:50:01 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:50:01 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:50:01 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:50:01 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:50:01 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:50:02 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - Product [product_id=100, product_name=Jeans, product_category=clothes, product_price=100.0]
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:50:08 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:51:37 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:51:42 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:51:42 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:51:42 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:51:42 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:51:42 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:51:46 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:51:51 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:51:51 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:51:51 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:51:51 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:51:51 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:52:38 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:52:41 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:52:41 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:52:41 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:52:41 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:52:41 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:52:43 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:52:49 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'TV' in 'where clause'
+[main] 2021-08-19 09:52:49 WARN  com.app.Main  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 09:52:49 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:52:49 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:52:49 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:52:49 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:52:49 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:53:13 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:53:19 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:53:19 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:53:19 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:53:19 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:53:19 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:53:20 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=200.0]
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:53:26 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:54:16 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:54:20 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:54:20 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:54:20 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:54:20 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:54:20 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:54:21 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:54:27 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:54:55 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:55:04 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:55:04 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:55:04 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:55:04 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:55:04 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:55:06 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:55:11 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:55:11 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:55:11 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:55:11 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:55:11 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:56:28 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:56:34 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:56:34 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:56:34 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:56:34 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:56:34 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:56:37 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:56:49 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 09:58:11 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 09:58:15 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:58:15 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:58:15 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:58:15 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:58:15 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:58:18 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:58:29 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 09:58:54 INFO  com.app.Main  - Enter the Name to get product details!
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - +----------The ptoduct Details are below!----------+
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - 
+
++-------Welcome to Product Search Menu-------+
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - 1. By Product Price
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - 2. By Product Name
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - 3. Go to main menu
+[main] 2021-08-19 09:58:57 INFO  com.app.Main  - Please enter your choice(1/2)
+[main] 2021-08-19 14:18:29 ERROR com.app.service.impl.CartServiceImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`first_project`.`cart`, CONSTRAINT `fk_customer` FOREIGN KEY (`cart_id`) REFERENCES `customer` (`cust_id`))
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 14:18:29 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 14:21:32 ERROR com.app.service.impl.CartServiceImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`first_project`.`cart`, CONSTRAINT `fk_customer` FOREIGN KEY (`cart_id`) REFERENCES `customer` (`cust_id`))
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 14:21:32 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 14:27:24 ERROR com.app.service.impl.CartServiceImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`first_project`.`cart`, CONSTRAINT `fk_customer` FOREIGN KEY (`cart_id`) REFERENCES `customer` (`cust_id`))
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 14:27:24 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - Welcome to Shoppers Shop!
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - +-------------------------------------------+
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 
+What are you want to buy?
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 1)Add Ptoduct
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 2)Update Product
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 3)Delete Product
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 4)List of all Products
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 5)Search Product with various filters
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-19 14:34:10 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-19 17:11:33 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 17:11:33 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 17:11:33 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 17:11:34 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 17:11:34 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 17:11:34 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 17:11:34 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 17:11:34 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 17:12:00 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:12:00 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:12:26 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:14:14 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 17:14:14 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 17:14:14 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 17:14:15 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 17:14:15 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 17:14:15 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 17:14:15 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 17:14:15 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 17:14:20 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:14:20 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:14:29 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:14:53 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:15:03 WARN  com.app.model.CustomerLogin  - Your Password is not valid
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:15:03 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:15:27 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:15:38 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:15:52 WARN  com.app.model.CustomerLogin  - Your Password is not valid
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:15:52 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:16:03 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:16:20 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:16:28 WARN  com.app.model.CustomerLogin  - Your Password is not valid
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:16:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:20:12 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:20:37 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:21:02 WARN  com.app.model.CustomerLogin  - Your Password is not valid
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:21:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:26:40 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:26:53 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:27:02 WARN  com.app.model.CustomerLogin  - Invalid Customer Details!
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:27:02 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:48:56 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:49:10 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:49:18 WARN  com.app.model.CustomerLogin  - Invalid Customer Details!
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:49:18 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:56:37 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 17:56:50 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 17:56:59 WARN  com.app.model.CustomerLogin  - Invalid Customer Details!
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 17:56:59 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 18:23:10 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 18:23:10 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 18:23:10 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 18:23:11 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 18:23:11 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 18:23:11 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 18:23:11 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 18:23:11 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 18:23:25 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 18:23:25 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 18:23:54 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 20:34:11 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 20:34:11 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 20:34:11 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:34:12 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 20:34:12 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 20:34:12 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 20:34:12 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 20:34:12 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 20:34:20 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:34:20 INFO  com.app.MainClass  - Under Construction!
+[main] 2021-08-19 20:34:36 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 20:34:36 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 20:34:36 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:34:37 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 20:34:37 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 20:34:37 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 20:34:37 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 20:34:37 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 20:34:42 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:54:35 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 20:54:35 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 20:54:35 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:54:36 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 20:54:36 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 20:54:36 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 20:54:36 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 20:54:36 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 20:54:51 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 20:54:51 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 20:55:00 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 20:55:16 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 20:55:24 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 20:55:24 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:22:36 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:22:36 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:22:36 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:22:37 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:22:37 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:22:37 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:22:37 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:22:37 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:23:08 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:23:08 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:23:08 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:23:09 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:23:09 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:23:09 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:23:09 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:23:09 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:23:14 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:23:14 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:23:23 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 21:23:38 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:28:16 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:28:16 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:01 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:34:01 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:34:01 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:34:02 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:34:02 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:34:02 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:34:02 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:34:02 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:34:05 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:34:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:23 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 21:34:39 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:34:53 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:34:53 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:01 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:36:01 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:36:01 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:36:02 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:36:02 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:36:02 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:36:02 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:36:02 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:36:05 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:36:05 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:11 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 21:36:22 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:36:28 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!----
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:36:28 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:37:35 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:37:35 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:37:35 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:37:36 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:37:36 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:37:36 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:37:36 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:37:36 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:37:43 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:37:43 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:37:48 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 21:38:00 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:38:08 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!----
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:38:08 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:43:28 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:43:28 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:43:28 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:43:29 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:43:29 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:43:29 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:43:29 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:43:29 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:43:33 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-19 21:43:33 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-19 21:43:36 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-19 21:43:45 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:43:54 INFO  com.app.model.CustomerLogin  - Your account has been created!
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - 
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  -     Register New Customer
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - Please enter your details to Register
+[main] 2021-08-19 21:43:54 INFO  com.app.MainClass  - 
+Enter Name : 
+[main] 2021-08-19 21:44:13 INFO  com.app.MainClass  - Enter mail id : 
+[main] 2021-08-19 21:44:28 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-19 21:44:36 WARN  com.app.MainClass  - Internal error ocurred, please contact admin!----
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - 
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - 
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  -     Register New Customer
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - Please enter your details to Register
+[main] 2021-08-19 21:44:36 INFO  com.app.MainClass  - 
+Enter Name : 
+[main] 2021-08-19 21:46:23 INFO  com.app.MainClass  - Enter mail id : 
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - 
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  -     Register New Customer
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - ---------------------------------
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - Please enter your details to Register
+[main] 2021-08-19 21:46:32 INFO  com.app.MainClass  - 
+Enter Name : 
+[main] 2021-08-19 21:50:46 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 21:50:46 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 21:50:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:50:47 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 21:50:47 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 21:50:47 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 21:50:47 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 21:50:47 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 21:51:02 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 21:51:02 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 21:51:25 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 21:51:38 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 21:51:39 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 21:51:40 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 22:50:05 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 22:50:05 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 22:50:05 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 22:50:06 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 22:50:06 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 22:50:06 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 22:50:06 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 22:50:06 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 22:50:16 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 22:50:16 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - This user name does bot exist
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - This user name does bot exist
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 22:50:27 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 22:50:44 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 22:50:54 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 22:50:55 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 22:55:37 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 22:55:37 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 22:55:37 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 22:55:38 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 22:55:38 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 22:55:38 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 22:55:38 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 22:55:38 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 22:55:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 22:55:46 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 22:56:00 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 22:56:12 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 22:56:13 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 22:56:14 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:00:54 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:00:54 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:00:54 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:00:55 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:00:55 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:00:55 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:00:55 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:00:55 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:00:58 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:00:58 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:01:12 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 23:01:19 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 23:01:20 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:01:21 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:28:16 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:28:16 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:28:16 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:28:17 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:28:17 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:28:17 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:28:17 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:28:17 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:28:22 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:28:22 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:28:38 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 23:28:46 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 23:28:47 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 23:28:49 WARN  com.app.dao.impl.ProductDAOImpl  - Unknown column 'prodcut_id' in 'field list'
+[main] 2021-08-19 23:28:49 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 23:28:49 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:28:49 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:28:49 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:28:49 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:28:49 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:28:50 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:28:50 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:30:26 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 23:30:33 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 23:30:34 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 23:30:35 WARN  com.app.dao.impl.ProductDAOImpl  - Unknown column 'prodcut_id' in 'field list'
+[main] 2021-08-19 23:30:35 WARN  com.app.model.CustomerLogin  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:30:35 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:34:16 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:34:16 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:34:16 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:34:17 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:34:17 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:34:17 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:34:17 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:34:17 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:34:21 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:34:21 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:34:32 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-19 23:34:39 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-19 23:34:40 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your Dashboard
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Product [product_id=100, product_name=Jeans, product_category=clothes, product_price=1500.0]
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Product [product_id=101, product_name=shirt, product_category=clothes, product_price=800.0]
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Product [product_id=201, product_name=Mobile, product_category=Electronic, product_price=15000.1]
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-19 23:34:43 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-19 23:49:04 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:49:04 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:49:04 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:49:05 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:49:15 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:20 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:49:20 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:49:20 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:49:21 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:49:46 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:49:46 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:49:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:49:47 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:49:50 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:52 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:49:52 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:49:52 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:49:53 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:51:50 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:51:50 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:51:50 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:51:51 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:51:53 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:51:59 ERROR com.app.MainClass  - Internal error ocurred, please contact admin!
+[main] 2021-08-19 23:51:59 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:51:59 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:51:59 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:52:00 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:52:49 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:52:49 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:52:49 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:52:50 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:52:53 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:52:53 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-19 23:52:53 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:52:53 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:52:53 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:52:54 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-19 23:53:06 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - Product added successfully
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - 
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - Product [product_id=124, product_name=watch, product_category=Electronic, product_price=3000.0]
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-19 23:53:08 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-19 23:53:09 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:18:04 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:18:04 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:18:04 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:18:05 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 00:18:12 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:18:16 INFO  com.app.MainClass  - Enter player id to get player details
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - Product with name jeans found successfully... Below is the details
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - [Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]]
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:18:27 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:18:28 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 00:19:16 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:19:20 INFO  com.app.MainClass  - Enter player id to get player details
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - Product with name TV found successfully... Below is the details
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - [Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]]
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:19:27 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:19:28 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 00:22:15 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:28 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:22:28 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:22:28 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:22:29 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 00:22:33 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:22:40 INFO  com.app.MainClass  - Enter player id to get player details
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - Product with name coldrink found successfully... Below is the details
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - [Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]]
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:22:57 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:22:58 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:27:33 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:27:33 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:27:33 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:27:34 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 00:27:48 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 00:27:53 INFO  com.app.MainClass  - Enter name of the product to get detail!
+[main] 2021-08-20 00:28:06 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-20 00:28:06 WARN  com.app.MainClass  - Internal error ocurred, please contact admin!
+[main] 2021-08-20 00:28:06 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-20 00:28:06 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 00:28:06 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 00:28:06 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - 
+[main] 2021-08-20 00:28:07 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:32:18 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:32:18 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:32:18 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:32:19 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-20 09:32:29 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:32:48 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-20 09:33:04 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-20 09:33:15 INFO  com.app.model.CustomerLogin  - Your account has been created!
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - |    Register As New Customer    |
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - |   Welcome To Shopper's Shop!   |
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - | Enter your details to Register |
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - | Enter Name :                   |
+[main] 2021-08-20 09:33:15 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:36:39 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:36:39 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:36:39 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:36:40 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-20 09:36:46 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:36:57 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-20 09:37:09 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-20 09:37:19 INFO  com.app.model.CustomerLogin  - Your account has been created!
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - |    Register As New Customer    |
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - |   Welcome To Shopper's Shop!   |
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - | Enter your details to Register |
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - | Enter Name :                   |
+[main] 2021-08-20 09:37:19 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:42:20 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:42:20 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:42:20 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:42:21 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - | Choose this for register        |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-20 09:42:26 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:42:43 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-20 09:43:01 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-20 09:43:08 INFO  com.app.model.CustomerLogin  - Your account has been created!
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - |    Register As New Customer    |
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - |   Welcome To Shopper's Shop!   |
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - | Enter your details to Register |
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - | Enter Name :                   |
+[main] 2021-08-20 09:43:08 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:47:21 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:47:21 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:47:21 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:47:22 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-20 09:47:27 INFO  com.app.model.CustomerLogin  - 
+Enter Username : 
+[main] 2021-08-20 09:52:42 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:52:42 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:52:42 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:52:43 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - |    Register As New Customer    |
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - |   Welcome To Shopper's Shop!   |
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - | Enter your details to Register |
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - | Enter Name :                   |
+[main] 2021-08-20 09:52:56 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:53:13 INFO  com.app.MainClass  - Enter mail id : 
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - |    Register As New Customer    |
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - |   Welcome To Shopper's Shop!   |
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - | Enter your details to Register |
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - | Enter Name :                   |
+[main] 2021-08-20 09:53:23 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 09:54:13 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:54:13 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:54:13 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:54:14 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - |      Register As New Customer   |
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - | Hello..!!                       |
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - | Welcome To Shoppers Shop        |
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - |                                 |
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - | Enter Your Name :               |
+[main] 2021-08-20 09:54:17 INFO  com.app.model.CustomerLogin  - +---------------------------------+
+[main] 2021-08-20 09:54:31 INFO  com.app.model.CustomerLogin  - Enter user mail : 
+[main] 2021-08-20 09:54:42 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-20 09:54:52 INFO  com.app.model.CustomerLogin  - Your account has been created!
+[main] 2021-08-20 09:54:52 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:54:52 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:54:52 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:54:53 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:55:46 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 09:55:46 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 09:55:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - 
+[main] 2021-08-20 09:55:47 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-20 09:55:55 INFO  com.app.model.CustomerLogin  - 
+Enter mail id : 
+[main] 2021-08-20 09:56:12 INFO  com.app.model.CustomerLogin  - Enter Password : 
+[main] 2021-08-20 09:56:19 INFO  com.app.model.CustomerLogin  - 
+Login Sucessfull!!!
+[main] 2021-08-20 09:56:20 INFO  com.app.model.CustomerLogin  - Please wait...Redirecting to your ProductList!
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=100, product_name=Jeans, product_category=clothes, product_price=1500.0]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=101, product_name=shirt, product_category=clothes, product_price=800.0]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=123, product_name=Electronic, product_category=Laptop, product_price=35000.0]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=124, product_name=Electronic, product_category=watch, product_price=3000.0]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Product [product_id=201, product_name=Mobile, product_category=Electronic, product_price=15000.1]
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - 
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - |         Login As Customer        |
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - +-------------------------------+
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Welcome To Shopper's Shop!
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - Please enter your details to Login
+[main] 2021-08-20 09:56:21 INFO  com.app.model.CustomerLogin  - 
+Enter mail id : 
+[main] 2021-08-20 10:10:46 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:10:46 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:10:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:10:47 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:10:53 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:11:13 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 10:11:24 INFO  com.app.MainClass  - 
+Login Sucessfull!!!
+[main] 2021-08-20 10:11:25 INFO  com.app.MainClass  - Please wait...Redirecting to your ProductList!
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:11:26 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:13:24 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:13:24 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:13:24 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:13:25 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:13:30 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:13:54 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 10:14:13 INFO  com.app.MainClass  - 
+Login Sucessfull!!!
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - Please wait...Redirecting to your Menu!
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:14:14 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:15:32 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:15:32 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:15:32 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:15:33 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:15:36 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:15:50 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 10:15:57 INFO  com.app.MainClass  - 
+Login Sucessfull!!!
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - Please wait...Redirecting to your Menu!
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:15:58 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:16:59 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:16:59 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:16:59 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:17:00 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 10:17:03 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 10:17:16 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 10:17:25 INFO  com.app.MainClass  - 
+Login Sucessfull!!!
+[main] 2021-08-20 10:17:26 INFO  com.app.MainClass  - Please wait...Redirecting to your Menu!
+[main] 2021-08-20 10:17:26 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:17:26 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:17:26 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:17:27 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:17:58 ERROR com.app.MainClass  - Internal error ocurred, please contact admin!
+[main] 2021-08-20 10:17:58 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:17:58 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:17:58 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - | 5. Seach Product                |
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:17:59 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - |    Welcome to Search Menu!   |
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - | 1. Search By Name            |
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - | 2. Search By Price           |
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - | 3. Going to the Main Menu    |
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - | Please enter your choice(1-3)|
+[main] 2021-08-20 10:18:09 INFO  com.app.MainClass  - +------------------------------+
+[main] 2021-08-20 10:18:20 INFO  com.app.MainClass  - Enter name of the product to get detail!
+[main] 2021-08-20 10:18:29 ERROR com.app.dao.service.impl.ProductServiceDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-20 10:18:29 WARN  com.app.MainClass  - Internal error ocurred, please contact admin!
+[main] 2021-08-20 10:18:29 INFO  com.app.MainClass  - Enter a valid choice to login to select Account type
+[main] 2021-08-20 10:31:10 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 10:31:10 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 10:31:10 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - 
+[main] 2021-08-20 10:31:11 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 10:31:23 INFO  com.app.MainClass  - The list of all product are given below!
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=100, product_name=Jeans, product_category=clothes, product_price=1500.0]
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=101, product_name=shirt, product_category=clothes, product_price=800.0]
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=123, product_name=Electronic, product_category=Laptop, product_price=35000.0]
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=124, product_name=Electronic, product_category=watch, product_price=3000.0]
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=200, product_name=TV, product_category=Electronic, product_price=24000.5]
+[main] 2021-08-20 10:31:27 INFO  com.app.MainClass  - Product [product_id=201, product_name=Mobile, product_category=Electronic, product_price=15000.1]
+[main] 2021-08-20 12:31:54 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:31:54 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:31:54 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:31:55 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:32:00 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:34:26 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:34:26 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:34:26 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:34:27 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - |    Enter your choice(1-4)           |
+[main] 2021-08-20 12:35:04 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:36:08 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:36:08 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:36:08 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:36:09 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:36:17 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:36:22 INFO  com.app.MainClass  - Enter product id to add into cart!
+[main] 2021-08-20 12:48:46 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:48:46 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:48:46 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:48:47 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:48:50 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:50:18 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:50:18 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:50:18 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:50:19 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:50:21 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:50:24 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:50:24 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:50:24 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:50:25 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:51:23 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:51:23 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:51:23 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:51:24 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:51:27 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:51:28 INFO  com.app.MainClass  - Enter product id to add into cart!
+[main] 2021-08-20 12:51:32 WARN  com.app.dao.impl.CartDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '11' for key 'cart.PRIMARY'
+[main] 2021-08-20 12:51:32 ERROR com.app.MainClass  - com.app.exception.BusinessException: Internal error occurred! contact systemAdmin
+[main] 2021-08-20 12:51:53 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:51:53 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:51:53 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:51:54 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:51:57 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:52:00 INFO  com.app.MainClass  - Enter product id to add into cart!
+[main] 2021-08-20 12:52:03 INFO  com.app.MainClass  - Product added!
+[main] 2021-08-20 12:53:07 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 12:53:07 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 12:53:07 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - 
+[main] 2021-08-20 12:53:08 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 12:53:14 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 12:53:18 INFO  com.app.MainClass  - Enter product id to add into cart!
+[main] 2021-08-20 12:53:21 INFO  com.app.MainClass  - Product added!
+[main] 2021-08-20 12:53:21 INFO  com.app.MainClass  - Cart [cart_id=18, product_id=169, cust_id=258, status=added]
+[main] 2021-08-20 16:28:41 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 16:28:41 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 16:28:41 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - 
+[main] 2021-08-20 16:28:42 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - 
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - |      Register As New Customer   |
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - | Hello..!!                       |
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - | Welcome To Shoppers Shop        |
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - | Enter Your Name :               |
+[main] 2021-08-20 16:29:03 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:29:10 INFO  com.app.MainClass  - Enter user mail : 
+[main] 2021-08-20 16:29:25 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 16:29:34 INFO  com.app.MainClass  - Your account has been created!
+[main] 2021-08-20 16:29:34 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 16:29:34 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 16:29:34 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - 
+[main] 2021-08-20 16:29:35 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - 
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - |         Login As Customer        |
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - +-------------------------------+
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - Welcome To Shopper's Shop!
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - Please enter your details to Login
+[main] 2021-08-20 16:30:00 INFO  com.app.MainClass  - 
+Enter mail id : 
+[main] 2021-08-20 16:30:10 INFO  com.app.MainClass  - Enter Password : 
+[main] 2021-08-20 16:30:16 INFO  com.app.MainClass  - 
+Login Sucessfull!!!
+[main] 2021-08-20 16:30:17 INFO  com.app.MainClass  - Please wait...Redirecting to your Menu!
+[main] 2021-08-20 16:30:17 INFO  com.app.MainClass  - +-------------------------------- +
+[main] 2021-08-20 16:30:17 INFO  com.app.MainClass  - |    Welcome To Shopper's Shop    |
+[main] 2021-08-20 16:30:17 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - |                                 |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 1. New Customer Registration    |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 2. Customer Login               |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 3. Employee Login               |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 4. Add Product                  |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 5. View all products            |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 6. Seach Product                |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - | 7. Go to Cart Menu              |
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - +---------------------------------+
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - 
+[main] 2021-08-20 16:30:19 INFO  com.app.MainClass  - Choose your option...
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - |      Welcome to Cart Menu!     |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - | 1. View cart                   |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - | 2. Add into the Cart           |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - | 3. Remove from Cart            |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - | 4. Return to main menu         |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - |    Enter your choice(1-4)      |
+[main] 2021-08-20 16:30:39 INFO  com.app.MainClass  - +--------------------------------+
+[main] 2021-08-20 16:31:09 INFO  com.app.MainClass  - Cart product are Below!
+[main] 2021-08-20 16:31:09 WARN  com.app.dao.impl.CartDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'cartId' in 'field list'
+[main] 2021-08-20 16:31:09 ERROR com.app.MainClass  - com.app.exception.BusinessException: Internal error occurred! contact system admin
