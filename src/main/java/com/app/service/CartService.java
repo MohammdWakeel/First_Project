@@ -9,6 +9,6 @@ public interface CartService {
 
 	public int addToCart(Cart cart) throws BusinessException;
 	public List<Cart> viewCart(Customer customer) throws BusinessException;
-	public int removeFromCart(int cart_id) throws BusinessException;
+	public int removeFromCart(int product_id) throws BusinessException;
 	
 }

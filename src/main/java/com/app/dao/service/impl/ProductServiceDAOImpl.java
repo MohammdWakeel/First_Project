@@ -1,4 +1,5 @@
 package com.app.dao.service.impl;
+
 import java.util.*;
 
 import org.apache.log4j.Logger;
@@ -7,31 +8,33 @@ import com.app.dao.dbutil.MysqlConnection;
 import java.sql.*;
 import com.app.dao.service.ProductServiceDAO;
 import com.app.exception.BusinessException;
+import com.app.model.Cart;
 import com.app.model.Product;
 
-public class ProductServiceDAOImpl implements ProductServiceDAO{
-	
-	private static Logger log=Logger.getLogger(ProductServiceDAOImpl.class);
+public class ProductServiceDAOImpl implements ProductServiceDAO {
+
+	private static Logger log = Logger.getLogger(ProductServiceDAOImpl.class);
 
 	@Override
 	public List<Product> getProductByName(String product_name) throws BusinessException {
-		List<Product> productList=new ArrayList<>();
+		List<Product> productList = new ArrayList<>();
 		try (Connection connection = MysqlConnection.getConnection()) {
-			String sql= "select product_id, product_name, product_category, product_price from product where product_name=?";
-			PreparedStatement preparedStatement=connection.prepareStatement(sql);
-			ResultSet resultSet=preparedStatement.executeQuery();
-			while(resultSet.next()) {
-				Product product=new Product();
-			  product.setProduct_id(resultSet.getInt("product_id"));
-			  product.setProduct_name(resultSet.getString("product_name"));
-			  product.setProduct_description(resultSet.getString("product_category"));
-			  product.setProduct_price(resultSet.getDouble("product_price"));
-			  productList.add(product);
-			
-			if(productList.size()<1) {
-				throw new BusinessException("No Product Available at this time!");
+			String sql = "select product_id, product_name, product_category, product_price from product where product_name=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setString(1, product_name);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while (resultSet.next()) {
+				Product product = new Product();
+				product.setProduct_id(resultSet.getInt("product_id"));
+				product.setProduct_name(resultSet.getString("product_name"));
+				product.setProduct_category(resultSet.getString("product_category"));
+				product.setProduct_price(resultSet.getDouble("product_price"));
+				productList.add(product);
+
+				if (productList.size() < 1) {
+					throw new BusinessException("No Product Available at this time!");
+				}
 			}
-		}
 		} catch (ClassNotFoundException | SQLException e) {
 			log.error(e);
 			throw new BusinessException("Internal error ocurred, please contact admin!");
@@ -40,10 +43,57 @@ public class ProductServiceDAOImpl implements ProductServiceDAO{
 	}
 
 	@Override
-	public List<Product> getProductByPrice(double product_price) throws BusinessException {
-		// TODO Auto-generated method stub
-		return null;
+	public List<Product> getProductByCategory(String product_category) throws BusinessException {
+		List<Product> productList = new ArrayList<>();
+		try (Connection connection = MysqlConnection.getConnection()) {
+			String sql = "select product_id, product_name, product_category, product_price from product where product_category=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, product_category);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while (resultSet.next()) {
+				Product product = new Product();
+				product.setProduct_id(resultSet.getInt("product_id"));
+				product.setProduct_name(resultSet.getString("product_name"));
+				product.setProduct_category(resultSet.getString("product_category"));
+				product.setProduct_price(resultSet.getDouble("product_price"));
+				productList.add(product);
+
+				if (productList.size() < 1) {
+					throw new BusinessException("No Product Available at this time!");
+				}
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			log.error(e);
+			throw new BusinessException("Internal error ocurred, please contact admin!");
+		}
+		return productList;
 	}
 
-	
+	@Override
+	public Product getProductById(int product_id) throws BusinessException {
+		Product product = null;
+		try (Connection connection = MysqlConnection.getConnection()) {
+			String sql = "Select p.product_id,product_name,product_category,product_price from product p where p.product_id=?";
+			PreparedStatement preparedstatement = connection.prepareStatement(sql);
+			preparedstatement.setInt(1, product_id);
+			ResultSet resultSet = preparedstatement.executeQuery();
+			if (resultSet.next()) {
+				product = new Product();
+				product.setProduct_id(resultSet.getInt("product_id"));
+				product.setProduct_name(resultSet.getString("product_name"));
+				product.setProduct_category(resultSet.getString("product_category"));
+				product.setProduct_price(resultSet.getDouble("product_price"));
+				//Cart cart=new Cart();
+				
+			} else {
+				throw new BusinessException("Product id " + product_id + " does not exist");
+			}
+
+		} catch (ClassNotFoundException | SQLException e) {
+			log.error(e);
+			throw new BusinessException("Internal error occured, Contact to Your Admin!sahab");
+		}
+		return product;
+	}
+
 }

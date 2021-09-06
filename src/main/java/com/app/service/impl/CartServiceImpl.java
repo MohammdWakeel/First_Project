@@ -30,9 +30,9 @@ public class CartServiceImpl implements CartService{
 	}
 
 	@Override
-	public int removeFromCart(int cart_id) throws BusinessException {
+	public int removeFromCart(int product_id) throws BusinessException {
 		int result;
-        result=cartDAO.removeFromCart(cart_id);
+        result=cartDAO.removeFromCart(product_id);
         return result;
 	}
 	

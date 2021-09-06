@@ -8,6 +8,7 @@ import com.app.model.Product;
 public interface ProductServiceDAO {
 	
 	public List<Product> getProductByName(String product_name) throws BusinessException;
-	public List<Product> getProductByPrice(double product_price) throws BusinessException;
+	public List<Product> getProductByCategory(String product_category) throws BusinessException;
+	public Product getProductById(int product_id) throws BusinessException;
 
 }

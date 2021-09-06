@@ -18,7 +18,7 @@ public class CartDAOImpl implements CartDAO {
 	public List<Cart> viewCart(Customer customer) throws BusinessException {
 		List<Cart> cartList = new ArrayList<>();
         try(Connection connection = MysqlConnection.getConnection()) {
-            String sql = "SELECT cartId, cartProductId, cartCustomerId, cartProductQuantity, cartProductTotal FROM cart WHERE cartCustomerId = ?";
+            String sql = "SELECT cart_id, product_id, cust_id, product_price  FROM cart";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, customer.getCust_id());
 
@@ -28,9 +28,9 @@ public class CartDAOImpl implements CartDAO {
                 Product product = new Product();
                // Customer customer = new Customer();
                 cart.setCart_id(resultSet.getInt("cart_id"));
-                product.setProduct_id(resultSet.getInt("cartProduct_id"));
-                customer.setCust_id(resultSet.getInt("cartCust_id"));
-                cart.setStatus(resultSet.getString("status"));
+                product.setProduct_id(resultSet.getInt("product_id"));
+                customer.setCust_id(resultSet.getInt("cust_id"));
+                cart.setProduct_price(resultSet.getDouble("product_price"));
                 cartList.add(cart);
             }
         } catch (ClassNotFoundException | SQLException e) {
@@ -44,14 +44,18 @@ public class CartDAOImpl implements CartDAO {
 	public int addToCart(Cart cart) throws BusinessException {
 		int c;
         try(Connection connection = MysqlConnection.getConnection()) {
-            String sql = "INSERT INTO cart(cart_id, product_id, cust_id, status) VALUES (?,?,?,?)";
-            PreparedStatement preparedStatement = connection.prepareStatement(sql);
+            String sql = "INSERT INTO cart(cart_id, product_id, cust_id, product_price) VALUES (?,?,?,?)";
+            PreparedStatement preparedStatement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
             preparedStatement.setInt(1, cart.getCart_id());
             preparedStatement.setInt(2, cart.getProduct_id());
             preparedStatement.setInt(3, cart.getCust_id());
-            preparedStatement.setString(4, cart.getStatus());
+            preparedStatement.setDouble(4, cart.getProduct_price());
 
             c = preparedStatement.executeUpdate();
+            ResultSet resultSet = preparedStatement.getGeneratedKeys();
+            if (resultSet.next()) {
+                return resultSet.getInt(1);
+            }
             if (c == 0) {
                 throw new BusinessException("Customer creation failed! Check your query and try again!!!");
             }
@@ -63,13 +67,14 @@ public class CartDAOImpl implements CartDAO {
 	}
 
 	@Override
-	public int removeFromCart(int cart_id) throws BusinessException {
+	public int removeFromCart(int product_id) throws BusinessException {
 		int c;
         try(Connection connection = MysqlConnection.getConnection()) {
-            String sql = "Delete from cart where cart_id=?";
+            String sql = "Delete from cart where product_id=?";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setInt(1, cart_id);
+            preparedStatement.setInt(1, product_id);
             c = preparedStatement.executeUpdate();
+            log.info("The product with id "+product_id+" deleted");
         } catch (ClassNotFoundException | SQLException e) {
             log.warn(e);
             throw new BusinessException("Internal error occurred! contact systemAdmin");

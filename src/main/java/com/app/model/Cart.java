@@ -5,7 +5,7 @@ public class Cart {
 	private int cart_id;
 	private int product_id;
 	private int cust_id;
-	private String status;
+	private double product_price;
 	public Cart() {
 		
 	}
@@ -27,22 +27,22 @@ public class Cart {
 	public void setCust_id(int cust_id) {
 		this.cust_id = cust_id;
 	}
-	public String getStatus() {
-		return status;
+	public double getProduct_price() {
+		return product_price;
 	}
-	public void setStatus(String status) {
-		this.status = status;
+	public void setProduct_price(double product_price) {
+		this.product_price = product_price;
 	}
-	public Cart(int cart_id, int product_id, int cust_id, String status) {
+	public Cart(int cart_id, int product_id, int cust_id, double product_price) {
 		super();
 		this.cart_id = cart_id;
 		this.product_id = product_id;
 		this.cust_id = cust_id;
-		this.status = status;
+		this.product_price = product_price;
 	}
 	@Override
 	public String toString() {
-		return "Cart [cart_id=" + cart_id + ", product_id=" + product_id + ", cust_id=" + cust_id + ", status=" + status
+		return "Cart [cart_id=" + cart_id + ", product_id=" + product_id + ", cust_id=" + cust_id + ", product_price=" + product_price
 				+ "]";
 	}
 		
