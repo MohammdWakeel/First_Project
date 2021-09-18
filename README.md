@@ -1,1 +1,1 @@
-# SHOPPER'S SHOP Online a Shopping App
+# SHOPPER'S SHOP a Online Shopping App
